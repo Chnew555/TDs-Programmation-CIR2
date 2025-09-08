@@ -1,1 +1,8 @@
 add_executable(TD1 "main.cpp" "main.hpp")
+add_executable(exo2 exo2.cpp)
+add_executable(exo3 exo3.cpp)
+add_executable(exo4 exo4.cpp)
+add_executable(exo5 exo5.cpp)
+add_executable(exo6 exo6.cpp)
+add_executable(exo7 exo7.cpp)
+add_executable(exo8 exo8.cpp)
