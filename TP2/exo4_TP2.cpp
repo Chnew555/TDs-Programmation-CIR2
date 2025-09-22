@@ -1,4 +1,4 @@
-#include "Point3D.h"
+#include "Point3D.hpp"
 #include <iostream>
 #include <iomanip>
 using namespace std;
